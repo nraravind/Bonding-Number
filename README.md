@@ -29,4 +29,4 @@ as below.
 3. g++ -o out *.o
 
 4. Run ./out or out# Bonding-Number
-Finds upper and lower bounds for the bonding number of a network
+
