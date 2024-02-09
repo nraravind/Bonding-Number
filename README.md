@@ -16,7 +16,7 @@ The input graph must be connected (otherwise the program terminates with an erro
 The project consists of two header files and three cpp files.
 The names of these files are:
 
-graphio.h, mygraphlib.h,
+graphio.hpp, mygraphlib.hpp,
 graphio.cpp, mygraphlib.cpp, main.cpp.
 
 No additional software or libraries are used and compilation is standard with gcc,
